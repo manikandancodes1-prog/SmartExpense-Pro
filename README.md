@@ -99,39 +99,49 @@ SmartExpensePro_Login
 
 <img width="1918" height="866" alt="Login_Page" src="https://github.com/user-attachments/assets/a82f55f7-39e8-433e-8bca-ba78bfe26d60" />
 
+
 SmartExpensePro_Dashboard
 
 <img width="1918" height="863" alt="SmartExpense_Dashboard" src="https://github.com/user-attachments/assets/5636c4d0-5672-4f19-b9d2-322b5a342036" />
 
+
 <img width="1918" height="867" alt="SmartExpense_Dashboard2" src="https://github.com/user-attachments/assets/c974c154-2390-447a-9a27-16cf9fbfbbb0" />
+
 
 SmartExpensePro_SetBudget
 
 <img width="1918" height="865" alt="SetBudget" src="https://github.com/user-attachments/assets/c8942dce-4f2e-4528-94d7-0fd5f158a7c1" />
 
+
 SmartExpensePro_AddTransaction
 
 <img width="1918" height="860" alt="Add_Transaction" src="https://github.com/user-attachments/assets/fb926015-f342-4ef4-9833-a9cd3c63c8fd" />
+
 
 SmartExpensePro_EditTransaction
 
 <img width="1918" height="867" alt="Edit_Transaction" src="https://github.com/user-attachments/assets/b517e200-7bb2-4a06-be50-53980b15f9ad" />
 
+
 SmartExpensePro_DeleteTransaction
 
 <img width="1918" height="872" alt="Delete_Transaction" src="https://github.com/user-attachments/assets/83935904-ea3b-4e2d-93c1-519c6446aade" />
+
 
 SmartExpensePro_DateFilterFeature
 
 <img width="1918" height="570" alt="DateFilter" src="https://github.com/user-attachments/assets/024b57b5-4127-4b00-a0b1-c3d11f5084f0" />
 
+
 SmartExpensePro_SearchEngineFeature
 
 <img width="1662" height="495" alt="SearchEngin" src="https://github.com/user-attachments/assets/803ca032-7727-403d-a081-0e6039135d69" />
 
+
 SmartExpensePro_ExportCSV
 
 <img width="1911" height="1013" alt="Download_Export" src="https://github.com/user-attachments/assets/3088c7a2-0a5a-492c-840d-ca67ab9d8e00" />
+
 
 ▶️ Video Demo Preview
 
