@@ -180,15 +180,16 @@ npm run dev
 ------------------------------------------------------------------------------------------------
 
 🧩 System Architecture
- React Frontend
+
+ - React Frontend
       ↓
- Axios HTTP Requests
+ - Axios HTTP Requests
       ↓
- Spring Boot REST API
+ - Spring Boot REST API
       ↓
- Spring Security + JWT
+ - Spring Security + JWT
       ↓
- MySQL Database
+ - MySQL Database
 
 ------------------------------------------------------------------------------------------------
 
